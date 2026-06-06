@@ -1,0 +1,1910 @@
+[
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251117T120615_20251117T120715_061917_07BE31_1781.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20251117",
+    "stratum": "S1A_autumn",
+    "val_fold": 0,
+    "valid_ratio": 0.7008954944848511
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241103T121428_20241103T121528_056390_06E8B0_DDCC.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241103",
+    "stratum": "S1A_autumn",
+    "val_fold": 0,
+    "valid_ratio": 0.6924600036365991
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221002T122238_20221002T122338_045263_056922_C893.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20221002",
+    "stratum": "S1A_autumn",
+    "val_fold": 0,
+    "valid_ratio": 0.6897365990802711
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221030T115016_20221030T115120_045671_05763A_2FC5.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20221030",
+    "stratum": "S1A_autumn",
+    "val_fold": 0,
+    "valid_ratio": 0.6636798783239408
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241020T140524_20241020T140624_056187_06E0AC_E52C.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241020",
+    "stratum": "S1A_autumn",
+    "val_fold": 0,
+    "valid_ratio": 0.38856291007023597
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241006T142150_20241006T142250_055983_06D895_A7F5.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241006",
+    "stratum": "S1A_autumn",
+    "val_fold": 0,
+    "valid_ratio": 0.3122241477967527
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241104T143004_20241104T143104_056406_06E959_E2B8.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241104",
+    "stratum": "S1A_autumn",
+    "val_fold": 0,
+    "valid_ratio": 0.2703240557227263
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240916T134954_20240916T135054_055691_06CD09_3843.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20240916",
+    "stratum": "S1A_autumn",
+    "val_fold": 0,
+    "valid_ratio": 0.2424020239296333
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251006T142955_20251006T143055_061306_07A5F8_A05E.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20251006",
+    "stratum": "S1A_autumn",
+    "val_fold": 0,
+    "valid_ratio": 0.08789914688434405
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250303T121420_20250303T121520_058140_072E73_3856.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250303",
+    "stratum": "S1A_spring",
+    "val_fold": 0,
+    "valid_ratio": 0.6620067633153095
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230319T122234_20230319T122334_047713_05BB3D_4573.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20230319",
+    "stratum": "S1A_spring",
+    "val_fold": 0,
+    "valid_ratio": 0.480699919319651
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230327T142959_20230327T143059_047831_05BF36_1B22.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20230327",
+    "stratum": "S1A_spring",
+    "val_fold": 0,
+    "valid_ratio": 0.3483124737388126
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240304T142149_20240304T142249_052833_0664D8_5589.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20240304",
+    "stratum": "S1A_spring",
+    "val_fold": 0,
+    "valid_ratio": 0.26170424838135997
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20260316T143800_20260316T143900_063654_08005E_837D.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20260316",
+    "stratum": "S1A_spring",
+    "val_fold": 0,
+    "valid_ratio": 0.1524361739290994
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240730T121426_20240730T121526_054990_06B2F3_DFD9.nc",
+    "sensor": "S1A",
+    "season": "summer",
+    "date": "20240730",
+    "stratum": "S1A_summer",
+    "val_fold": 0,
+    "valid_ratio": 0.6925448024487312
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250714T142954_20250714T143054_060081_0776F9_B49F.nc",
+    "sensor": "S1A",
+    "season": "summer",
+    "date": "20250714",
+    "stratum": "S1A_summer",
+    "val_fold": 0,
+    "valid_ratio": 0.15818878451653842
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241202T122238_20241202T122338_056813_06F98F_AE58.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20241202",
+    "stratum": "S1A_winter",
+    "val_fold": 0,
+    "valid_ratio": 0.688849042957238
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240129T115017_20240129T115122_052321_065385_EC9A.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20240129",
+    "stratum": "S1A_winter",
+    "val_fold": 0,
+    "valid_ratio": 0.6027099599120574
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230101T121424_20230101T121524_046590_05955A_E940.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20230101",
+    "stratum": "S1A_winter",
+    "val_fold": 0,
+    "valid_ratio": 0.4643696722859748
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250119T122233_20250119T122333_057513_07153E_B7AA.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250119",
+    "stratum": "S1A_winter",
+    "val_fold": 0,
+    "valid_ratio": 0.3724712334294563
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231231T114213_20231231T114313_051898_064538_0E40.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20231231",
+    "stratum": "S1A_winter",
+    "val_fold": 0,
+    "valid_ratio": 0.35267538744879545
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230206T134949_20230206T135049_047116_05A705_4F28.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20230206",
+    "stratum": "S1A_winter",
+    "val_fold": 0,
+    "valid_ratio": 0.32272143262122105
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240211T140609_20240211T140709_052512_0659F7_B822.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20240211",
+    "stratum": "S1A_winter",
+    "val_fold": 0,
+    "valid_ratio": 0.30220491758365975
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231211T142152_20231211T142252_051608_063B24_E93E.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20231211",
+    "stratum": "S1A_winter",
+    "val_fold": 0,
+    "valid_ratio": 0.24562477058099122
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250203T142143_20250203T142243_057733_071DFA_2037.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250203",
+    "stratum": "S1A_winter",
+    "val_fold": 0,
+    "valid_ratio": 0.15906566308609846
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250120T143812_20250120T143912_057529_0715E9_7262.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250120",
+    "stratum": "S1A_winter",
+    "val_fold": 0,
+    "valid_ratio": 0.10738431884925137
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251027T114054_20251027T114154_004747_009601_12BA.nc",
+    "sensor": "S1C",
+    "season": "autumn",
+    "date": "20251027",
+    "stratum": "S1C_autumn",
+    "val_fold": 0,
+    "valid_ratio": 0.5252496117960598
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251117T142922_20251117T143022_005055_00A038_89F9.nc",
+    "sensor": "S1C",
+    "season": "autumn",
+    "date": "20251117",
+    "stratum": "S1C_autumn",
+    "val_fold": 0,
+    "valid_ratio": 0.07686653409325722
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20260316T134827_20260316T134927_006790_00DB93_2573.nc",
+    "sensor": "S1C",
+    "season": "spring",
+    "date": "20260316",
+    "stratum": "S1C_spring",
+    "val_fold": 0,
+    "valid_ratio": 0.2999403648696344
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20250602T142917_20250602T143017_002605_00566B_D0B7.nc",
+    "sensor": "S1C",
+    "season": "summer",
+    "date": "20250602",
+    "stratum": "S1C_summer",
+    "val_fold": 0,
+    "valid_ratio": 0.27619028345864305
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251215T122133_20251215T122233_005462_00AE0D_C58E.nc",
+    "sensor": "S1C",
+    "season": "winter",
+    "date": "20251215",
+    "stratum": "S1C_winter",
+    "val_fold": 0,
+    "valid_ratio": 0.6344945205187076
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20260111T142111_20260111T142211_005857_00BBB6_E950.nc",
+    "sensor": "S1C",
+    "season": "winter",
+    "date": "20260111",
+    "stratum": "S1C_winter",
+    "val_fold": 0,
+    "valid_ratio": 0.14085139568743332
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251117T120615_20251117T120715_061917_07BE31_2494.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20251117",
+    "stratum": "S1A_autumn",
+    "val_fold": 1,
+    "valid_ratio": 0.7008745759988916
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251005T121418_20251005T121518_061290_07A551_9C85.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20251005",
+    "stratum": "S1A_autumn",
+    "val_fold": 1,
+    "valid_ratio": 0.6924307754051321
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221107T122238_20221107T122338_045788_057A1E_9E17.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20221107",
+    "stratum": "S1A_autumn",
+    "val_fold": 1,
+    "valid_ratio": 0.6873046826510092
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241124T115016_20241124T115120_056696_06F4F2_FB93.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241124",
+    "stratum": "S1A_autumn",
+    "val_fold": 1,
+    "valid_ratio": 0.6636115178638733
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251103T153644_20251103T153744_061715_07B64E_E064.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20251103",
+    "stratum": "S1A_autumn",
+    "val_fold": 1,
+    "valid_ratio": 0.3799345203305601
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221127T143002_20221127T143102_046081_058408_F0D6.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20221127",
+    "stratum": "S1A_autumn",
+    "val_fold": 1,
+    "valid_ratio": 0.3086809273820089
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221108T143817_20221108T143917_045804_057AAC_7567.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20221108",
+    "stratum": "S1A_autumn",
+    "val_fold": 1,
+    "valid_ratio": 0.2692919978535969
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230911T143007_20230911T143107_050281_060D91_BFCD.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20230911",
+    "stratum": "S1A_autumn",
+    "val_fold": 1,
+    "valid_ratio": 0.2385996945986524
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251013T142140_20251013T142240_061408_07AA14_DBB5.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20251013",
+    "stratum": "S1A_autumn",
+    "val_fold": 1,
+    "valid_ratio": 0.0859337066506998
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240519T121429_20240519T121529_053940_068E83_E642.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20240519",
+    "stratum": "S1A_spring",
+    "val_fold": 1,
+    "valid_ratio": 0.6515914740860573
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250303T152732_20250303T152832_058142_072E8D_2784.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250303",
+    "stratum": "S1A_spring",
+    "val_fold": 1,
+    "valid_ratio": 0.4599728623263826
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250317T151106_20250317T151206_058346_0736AD_5BA2.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250317",
+    "stratum": "S1A_spring",
+    "val_fold": 1,
+    "valid_ratio": 0.3450886803162587
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240527T142150_20240527T142250_054058_06929B_B1B5.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20240527",
+    "stratum": "S1A_spring",
+    "val_fold": 1,
+    "valid_ratio": 0.2575586741817801
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20260323T142946_20260323T143046_063756_080427_E5E2.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20260323",
+    "stratum": "S1A_spring",
+    "val_fold": 1,
+    "valid_ratio": 0.14751691934257202
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240825T115807_20240825T115907_055369_06C0AC_F0F5.nc",
+    "sensor": "S1A",
+    "season": "summer",
+    "date": "20240825",
+    "stratum": "S1A_summer",
+    "val_fold": 1,
+    "valid_ratio": 0.6851528286777657
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250715T115758_20250715T115858_060094_07776B_4A9E.nc",
+    "sensor": "S1A",
+    "season": "summer",
+    "date": "20250715",
+    "stratum": "S1A_summer",
+    "val_fold": 1,
+    "valid_ratio": 0.0
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221205T115015_20221205T115119_046196_058801_B806.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20221205",
+    "stratum": "S1A_winter",
+    "val_fold": 1,
+    "valid_ratio": 0.6636804307011988
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251208T114159_20251208T114259_062223_07CA25_0979.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20251208",
+    "stratum": "S1A_winter",
+    "val_fold": 1,
+    "valid_ratio": 0.5495520543322009
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251208T114059_20251208T114159_062223_07CA25_7C82.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20251208",
+    "stratum": "S1A_winter",
+    "val_fold": 1,
+    "valid_ratio": 0.44328496238409304
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231224T115019_20231224T115123_051796_0641AE_3C31.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20231224",
+    "stratum": "S1A_winter",
+    "val_fold": 1,
+    "valid_ratio": 0.36846656741307493
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230219T142958_20230219T143058_047306_05AD78_C375.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20230219",
+    "stratum": "S1A_winter",
+    "val_fold": 1,
+    "valid_ratio": 0.3449388276382582
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230122T115013_20230122T115117_046896_059FB6_4EE1.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20230122",
+    "stratum": "S1A_winter",
+    "val_fold": 1,
+    "valid_ratio": 0.32145800798802454
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251221T122225_20251221T122325_062413_07D178_84CC.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20251221",
+    "stratum": "S1A_winter",
+    "val_fold": 1,
+    "valid_ratio": 0.29707691205506254
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240114T143819_20240114T143919_052104_064C2E_E72C.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20240114",
+    "stratum": "S1A_winter",
+    "val_fold": 1,
+    "valid_ratio": 0.23783818911764723
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250225T143811_20250225T143911_058054_072AFC_45F4.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250225",
+    "stratum": "S1A_winter",
+    "val_fold": 1,
+    "valid_ratio": 0.1588626548000966
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251006T151807_20251006T151907_004443_008CD3_E3FC.nc",
+    "sensor": "S1C",
+    "season": "autumn",
+    "date": "20251006",
+    "stratum": "S1C_autumn",
+    "val_fold": 1,
+    "valid_ratio": 0.3944616607010276
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20250915T140451_20250915T140551_004136_00837E_67A9.nc",
+    "sensor": "S1C",
+    "season": "autumn",
+    "date": "20250915",
+    "stratum": "S1C_autumn",
+    "val_fold": 1,
+    "valid_ratio": 0.07166967870444393
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20260309T135639_20260309T135739_006688_00D804_8CAF.nc",
+    "sensor": "S1C",
+    "season": "spring",
+    "date": "20260309",
+    "stratum": "S1C_spring",
+    "val_fold": 1,
+    "valid_ratio": 0.28146116751623224
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20250810T140450_20250810T140550_003611_0073AA_9764.nc",
+    "sensor": "S1C",
+    "season": "summer",
+    "date": "20250810",
+    "stratum": "S1C_summer",
+    "val_fold": 1,
+    "valid_ratio": 0.2684399927203315
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251208T140450_20251208T140550_005361_00AA92_D689.nc",
+    "sensor": "S1C",
+    "season": "winter",
+    "date": "20251208",
+    "stratum": "S1C_winter",
+    "val_fold": 1,
+    "valid_ratio": 0.2693732032341436
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20260209T142918_20260209T143018_006280_00C9EC_9EA1.nc",
+    "sensor": "S1C",
+    "season": "winter",
+    "date": "20260209",
+    "stratum": "S1C_winter",
+    "val_fold": 1,
+    "valid_ratio": 0.13854553812935447
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251012T120616_20251012T120716_061392_07A973_82CB.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20251012",
+    "stratum": "S1A_autumn",
+    "val_fold": 2,
+    "valid_ratio": 0.7008193252306316
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231016T121432_20231016T121532_050790_061EFC_D738.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231016",
+    "stratum": "S1A_autumn",
+    "val_fold": 2,
+    "valid_ratio": 0.6924290285475659
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241117T115807_20241117T115907_056594_06F0D7_B71A.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241117",
+    "stratum": "S1A_autumn",
+    "val_fold": 2,
+    "valid_ratio": 0.6852092648841298
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231126T122242_20231126T122342_051388_063382_B939.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231126",
+    "stratum": "S1A_autumn",
+    "val_fold": 2,
+    "valid_ratio": 0.6509887345683503
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241027T153554_20241027T153654_056290_06E4BF_2CF0.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241027",
+    "stratum": "S1A_autumn",
+    "val_fold": 2,
+    "valid_ratio": 0.37082001812616205
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251020T155210_20251020T155310_061511_07AE30_4B25.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20251020",
+    "stratum": "S1A_autumn",
+    "val_fold": 2,
+    "valid_ratio": 0.29370015245452696
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231022T143822_20231022T143922_050879_0621F7_24ED.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231022",
+    "stratum": "S1A_autumn",
+    "val_fold": 2,
+    "valid_ratio": 0.26666612957811137
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251110T134944_20251110T135044_061816_07BA3A_8297.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20251110",
+    "stratum": "S1A_autumn",
+    "val_fold": 2,
+    "valid_ratio": 0.20513834604778966
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250324T115010_20250324T115114_058446_073AAE_007F.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250324",
+    "stratum": "S1A_spring",
+    "val_fold": 2,
+    "valid_ratio": 0.6112937213618267
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250330T155213_20250330T155313_058536_073E45_279F.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250330",
+    "stratum": "S1A_spring",
+    "val_fold": 2,
+    "valid_ratio": 0.4176177739486237
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230320T143813_20230320T143913_047729_05BBC5_9868.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20230320",
+    "stratum": "S1A_spring",
+    "val_fold": 2,
+    "valid_ratio": 0.33028904754699495
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250324T150252_20250324T150352_058448_073AC0_8156.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250324",
+    "stratum": "S1A_spring",
+    "val_fold": 2,
+    "valid_ratio": 0.25184183097927315
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20260330T142131_20260330T142231_063858_0807EA_77C6.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20260330",
+    "stratum": "S1A_spring",
+    "val_fold": 2,
+    "valid_ratio": 0.13599949163168037
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230619T143003_20230619T143102_049056_05E62C_2480.nc",
+    "sensor": "S1A",
+    "season": "summer",
+    "date": "20230619",
+    "stratum": "S1A_summer",
+    "val_fold": 2,
+    "valid_ratio": 0.3482906576166033
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231203T121431_20231203T121531_051490_0636F8_F6AE.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20231203",
+    "stratum": "S1A_winter",
+    "val_fold": 2,
+    "valid_ratio": 0.6634391525057902
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240225T121427_20240225T121527_052715_0660D7_F3BC.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20240225",
+    "stratum": "S1A_winter",
+    "val_fold": 2,
+    "valid_ratio": 0.5442710322686178
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250224T153546_20250224T153646_058040_072A64_0A29.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250224",
+    "stratum": "S1A_winter",
+    "val_fold": 2,
+    "valid_ratio": 0.435065436530943
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221204T142147_20221204T142247_046183_058786_55F3.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20221204",
+    "stratum": "S1A_winter",
+    "val_fold": 2,
+    "valid_ratio": 0.36717619997898715
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240205T114111_20240205T114211_052423_065702_E3E0.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20240205",
+    "stratum": "S1A_winter",
+    "val_fold": 2,
+    "valid_ratio": 0.33785982932778513
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231231T114113_20231231T114213_051898_064538_542F.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20231231",
+    "stratum": "S1A_winter",
+    "val_fold": 2,
+    "valid_ratio": 0.3197366679554018
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231225T140525_20231225T140625_051812_064239_3F62.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20231225",
+    "stratum": "S1A_winter",
+    "val_fold": 2,
+    "valid_ratio": 0.2783369321683422
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251228T121413_20251228T121513_062515_07D577_ADFA.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20251228",
+    "stratum": "S1A_winter",
+    "val_fold": 2,
+    "valid_ratio": 0.22974370335627298
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251222T143804_20251222T143904_062429_07D228_E19D.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20251222",
+    "stratum": "S1A_winter",
+    "val_fold": 2,
+    "valid_ratio": 0.15684253281140056
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251130T150955_20251130T151055_005245_00A697_8CB2.nc",
+    "sensor": "S1C",
+    "season": "autumn",
+    "date": "20251130",
+    "stratum": "S1C_autumn",
+    "val_fold": 2,
+    "valid_ratio": 0.29774208030758825
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251124T142113_20251124T142213_005157_00A3A7_D4B7.nc",
+    "sensor": "S1C",
+    "season": "autumn",
+    "date": "20251124",
+    "stratum": "S1C_autumn",
+    "val_fold": 2,
+    "valid_ratio": 0.06361522945470516
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20260302T140447_20260302T140547_006586_00D492_BCB6.nc",
+    "sensor": "S1C",
+    "season": "spring",
+    "date": "20260302",
+    "stratum": "S1C_spring",
+    "val_fold": 2,
+    "valid_ratio": 0.25831283789306086
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20260125T140447_20260125T140547_006061_00C27B_20E0.nc",
+    "sensor": "S1C",
+    "season": "winter",
+    "date": "20260125",
+    "stratum": "S1C_winter",
+    "val_fold": 2,
+    "valid_ratio": 0.2584646877193806
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240923T120625_20240923T120725_055792_06D112_9D31.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20240923",
+    "stratum": "S1A_autumn",
+    "val_fold": 3,
+    "valid_ratio": 0.700792855648132
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231121T121431_20231121T121531_051315_0630FE_6F17.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231121",
+    "stratum": "S1A_autumn",
+    "val_fold": 3,
+    "valid_ratio": 0.692406470212932
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251124T115757_20251124T115857_062019_07C220_352C.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20251124",
+    "stratum": "S1A_autumn",
+    "val_fold": 3,
+    "valid_ratio": 0.6851155298990934
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241014T114212_20241014T114312_056098_06DD28_5875.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241014",
+    "stratum": "S1A_autumn",
+    "val_fold": 3,
+    "valid_ratio": 0.5492818273905489
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221031T140522_20221031T140622_045687_0576C5_4187.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20221031",
+    "stratum": "S1A_autumn",
+    "val_fold": 3,
+    "valid_ratio": 0.3663041817278536
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231016T134958_20231016T135058_050791_061F05_64D1.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231016",
+    "stratum": "S1A_autumn",
+    "val_fold": 3,
+    "valid_ratio": 0.29109236316404674
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221003T143817_20221003T143917_045279_0569B2_CD4F.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20221003",
+    "stratum": "S1A_autumn",
+    "val_fold": 3,
+    "valid_ratio": 0.26519369633189466
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221114T134953_20221114T135053_045891_057D98_EAFF.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20221114",
+    "stratum": "S1A_autumn",
+    "val_fold": 3,
+    "valid_ratio": 0.20265033403273922
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230314T121422_20230314T121522_047640_05B8C0_115D.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20230314",
+    "stratum": "S1A_spring",
+    "val_fold": 3,
+    "valid_ratio": 0.5818905393799985
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250310T151918_20250310T152018_058244_0732B2_E9DB.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250310",
+    "stratum": "S1A_spring",
+    "val_fold": 3,
+    "valid_ratio": 0.4108169791914396
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250331T114105_20250331T114205_058548_073ECE_7FBC.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250331",
+    "stratum": "S1A_spring",
+    "val_fold": 3,
+    "valid_ratio": 0.3096930032627473
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240513T143819_20240513T143919_053854_068B98_22BD.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20240513",
+    "stratum": "S1A_spring",
+    "val_fold": 3,
+    "valid_ratio": 0.2502956896779827
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250506T114105_20250506T114205_059073_075418_AF1D.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250506",
+    "stratum": "S1A_spring",
+    "val_fold": 3,
+    "valid_ratio": 0.0
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230718T143819_20230718T143919_049479_05F31D_318F.nc",
+    "sensor": "S1A",
+    "season": "summer",
+    "date": "20230718",
+    "stratum": "S1A_summer",
+    "val_fold": 3,
+    "valid_ratio": 0.32946992411492054
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251201T115006_20251201T115110_062121_07C61C_4CA6.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20251201",
+    "stratum": "S1A_winter",
+    "val_fold": 3,
+    "valid_ratio": 0.6514418238196332
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221212T114209_20221212T114309_046298_058B78_F017.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20221212",
+    "stratum": "S1A_winter",
+    "val_fold": 3,
+    "valid_ratio": 0.526372118605114
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250217T154401_20250217T154501_057938_072639_7237.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250217",
+    "stratum": "S1A_winter",
+    "val_fold": 3,
+    "valid_ratio": 0.413458094220786
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230110T115013_20230110T115117_046721_0599CE_D859.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20230110",
+    "stratum": "S1A_winter",
+    "val_fold": 3,
+    "valid_ratio": 0.3621348517636064
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230102T143000_20230102T143100_046606_0595ED_FC17.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20230102",
+    "stratum": "S1A_winter",
+    "val_fold": 3,
+    "valid_ratio": 0.3352962556326317
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230212T143813_20230212T143913_047204_05A9FA_75EF.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20230212",
+    "stratum": "S1A_winter",
+    "val_fold": 3,
+    "valid_ratio": 0.312182354715488
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240219T143818_20240219T143918_052629_065DE6_1FF1.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20240219",
+    "stratum": "S1A_winter",
+    "val_fold": 3,
+    "valid_ratio": 0.2660439114461204
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250216T115010_20250216T115114_057921_07258B_0F48.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250216",
+    "stratum": "S1A_winter",
+    "val_fold": 3,
+    "valid_ratio": 0.21385960829022557
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241222T143000_20241222T143100_057106_070532_0A3F.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20241222",
+    "stratum": "S1A_winter",
+    "val_fold": 3,
+    "valid_ratio": 0.14550859805416916
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251006T151907_20251006T152007_004443_008CD3_4CA3.nc",
+    "sensor": "S1C",
+    "season": "autumn",
+    "date": "20251006",
+    "stratum": "S1C_autumn",
+    "val_fold": 3,
+    "valid_ratio": 0.2361820518459949
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251222T134829_20251222T134929_005565_00B199_4BC5.nc",
+    "sensor": "S1C",
+    "season": "winter",
+    "date": "20251222",
+    "stratum": "S1C_winter",
+    "val_fold": 3,
+    "valid_ratio": 0.2513081076103534
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241110T120625_20241110T120725_056492_06ECC7_0C14.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241110",
+    "stratum": "S1A_autumn",
+    "val_fold": 4,
+    "valid_ratio": 0.7007713117269324
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221114T121426_20221114T121526_045890_057D8F_92C0.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20221114",
+    "stratum": "S1A_autumn",
+    "val_fold": 4,
+    "valid_ratio": 0.6907955814445206
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241007T115018_20241007T115122_055996_06D91F_01E5.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241007",
+    "stratum": "S1A_autumn",
+    "val_fold": 4,
+    "valid_ratio": 0.6639527053025548
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231113T114215_20231113T114315_051198_062D07_C8DA.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231113",
+    "stratum": "S1A_autumn",
+    "val_fold": 4,
+    "valid_ratio": 0.5461704079446883
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241020T154409_20241020T154508_056188_06E0B9_AB76.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241020",
+    "stratum": "S1A_autumn",
+    "val_fold": 4,
+    "valid_ratio": 0.35493138046345546
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251130T160023_20251130T160123_062109_07C5A6_0175.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20251130",
+    "stratum": "S1A_autumn",
+    "val_fold": 4,
+    "valid_ratio": 0.2901224192013923
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221120T143817_20221120T143917_045979_05808D_8406.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20221120",
+    "stratum": "S1A_autumn",
+    "val_fold": 4,
+    "valid_ratio": 0.2606321767023874
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241125T140522_20241125T140622_056712_06F593_E976.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241125",
+    "stratum": "S1A_autumn",
+    "val_fold": 4,
+    "valid_ratio": 0.1976502376673326
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230326T121423_20230326T121523_047815_05BEA5_3242.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20230326",
+    "stratum": "S1A_spring",
+    "val_fold": 4,
+    "valid_ratio": 0.5643766861625098
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240325T122239_20240325T122339_053138_066FEA_4CC8.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20240325",
+    "stratum": "S1A_spring",
+    "val_fold": 4,
+    "valid_ratio": 0.394201034379033
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240312T114111_20240312T114211_052948_0668D6_FC17.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20240312",
+    "stratum": "S1A_spring",
+    "val_fold": 4,
+    "valid_ratio": 0.3094517144015781
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250512T140517_20250512T140617_059162_07573E_EAE8.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250512",
+    "stratum": "S1A_spring",
+    "val_fold": 4,
+    "valid_ratio": 0.21230259209934324
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250506T114205_20250506T114305_059073_075418_903B.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250506",
+    "stratum": "S1A_spring",
+    "val_fold": 4,
+    "valid_ratio": 0.0
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230806T143006_20230806T143106_049756_05FBA4_2E35.nc",
+    "sensor": "S1A",
+    "season": "summer",
+    "date": "20230806",
+    "stratum": "S1A_summer",
+    "val_fold": 4,
+    "valid_ratio": 0.28167270238239167
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231212T115020_20231212T115124_051621_063BA7_BFC0.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20231212",
+    "stratum": "S1A_winter",
+    "val_fold": 4,
+    "valid_ratio": 0.6466492477883277
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240205T114211_20240205T114311_052423_065702_0628.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20240205",
+    "stratum": "S1A_winter",
+    "val_fold": 4,
+    "valid_ratio": 0.5191636148604107
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250217T140602_20250217T140702_057937_07262E_DF15.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250217",
+    "stratum": "S1A_winter",
+    "val_fold": 4,
+    "valid_ratio": 0.3995417065234279
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230109T142145_20230109T142245_046708_059954_AC06.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20230109",
+    "stratum": "S1A_winter",
+    "val_fold": 4,
+    "valid_ratio": 0.3607985150632625
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221226T143815_20221226T143915_046504_059276_DC2F.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20221226",
+    "stratum": "S1A_winter",
+    "val_fold": 4,
+    "valid_ratio": 0.3300560079689857
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221212T114109_20221212T114209_046298_058B78_E168.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20221212",
+    "stratum": "S1A_winter",
+    "val_fold": 4,
+    "valid_ratio": 0.30535609671277225
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240226T143003_20240226T143103_052731_066160_422D.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20240226",
+    "stratum": "S1A_winter",
+    "val_fold": 4,
+    "valid_ratio": 0.26523490076817935
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250112T140518_20250112T140618_057412_071146_F210.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250112",
+    "stratum": "S1A_winter",
+    "val_fold": 4,
+    "valid_ratio": 0.21252546497730732
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241229T142145_20241229T142245_057208_07092F_1F01.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20241229",
+    "stratum": "S1A_winter",
+    "val_fold": 4,
+    "valid_ratio": 0.1385117028802225
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251103T162333_20251103T162433_004852_009966_F8A0.nc",
+    "sensor": "S1C",
+    "season": "autumn",
+    "date": "20251103",
+    "stratum": "S1C_autumn",
+    "val_fold": 4,
+    "valid_ratio": 0.1887815221699885
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251215T135641_20251215T135741_005463_00AE13_DCDB.nc",
+    "sensor": "S1C",
+    "season": "winter",
+    "date": "20251215",
+    "stratum": "S1C_winter",
+    "val_fold": 4,
+    "valid_ratio": 0.22816610794446543
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221009T121427_20221009T121527_045365_056C8B_5009.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20221009",
+    "stratum": "S1A_autumn",
+    "val_fold": 5,
+    "valid_ratio": 0.6938864714319725
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231009T122243_20231009T122343_050688_061B7C_3F98.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231009",
+    "stratum": "S1A_autumn",
+    "val_fold": 5,
+    "valid_ratio": 0.6898353845669288
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221018T115016_20221018T115120_045496_05709F_EF37.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20221018",
+    "stratum": "S1A_autumn",
+    "val_fold": 5,
+    "valid_ratio": 0.6638895051216755
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241014T114112_20241014T114212_056098_06DD28_5338.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241014",
+    "stratum": "S1A_autumn",
+    "val_fold": 5,
+    "valid_ratio": 0.4696255579195355
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241111T142149_20241111T142249_056508_06ED67_4CDB.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241111",
+    "stratum": "S1A_autumn",
+    "val_fold": 5,
+    "valid_ratio": 0.33444587879349
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241028T143819_20241028T143918_056304_06E552_B6ED.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241028",
+    "stratum": "S1A_autumn",
+    "val_fold": 5,
+    "valid_ratio": 0.2811828279692297
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231127T143821_20231127T143921_051404_06340E_B9AA.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231127",
+    "stratum": "S1A_autumn",
+    "val_fold": 5,
+    "valid_ratio": 0.2553814206059297
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231002T140527_20231002T140627_050587_061809_B45E.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231002",
+    "stratum": "S1A_autumn",
+    "val_fold": 5,
+    "valid_ratio": 0.1962021352562592
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240305T115017_20240305T115121_052846_066553_08ED.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20240305",
+    "stratum": "S1A_spring",
+    "val_fold": 5,
+    "valid_ratio": 0.5143262892285942
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230312T140518_20230312T140618_047612_05B7D8_AB7B.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20230312",
+    "stratum": "S1A_spring",
+    "val_fold": 5,
+    "valid_ratio": 0.3871833265760376
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240312T114211_20240312T114311_052948_0668D6_6552.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20240312",
+    "stratum": "S1A_spring",
+    "val_fold": 5,
+    "valid_ratio": 0.29167050454797205
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250323T142142_20250323T142242_058433_073A22_E212.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250323",
+    "stratum": "S1A_spring",
+    "val_fold": 5,
+    "valid_ratio": 0.16515653271396327
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240630T143818_20240630T143918_054554_06A3C8_CBD4.nc",
+    "sensor": "S1A",
+    "season": "summer",
+    "date": "20240630",
+    "stratum": "S1A_summer",
+    "val_fold": 5,
+    "valid_ratio": 0.2645143425895164
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241209T121426_20241209T121526_056915_06FD85_6D70.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20241209",
+    "stratum": "S1A_winter",
+    "val_fold": 5,
+    "valid_ratio": 0.6416489159370269
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231219T114213_20231219T114313_051723_063F34_7B73.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20231219",
+    "stratum": "S1A_winter",
+    "val_fold": 5,
+    "valid_ratio": 0.5136375614944467
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221218T140520_20221218T140620_046387_058E8A_2C6D.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20221218",
+    "stratum": "S1A_winter",
+    "val_fold": 5,
+    "valid_ratio": 0.38714400605641763
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241209T134952_20241209T135052_056916_06FD8C_9337.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20241209",
+    "stratum": "S1A_winter",
+    "val_fold": 5,
+    "valid_ratio": 0.3586748593845503
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230123T140605_20230123T140705_046912_05A042_8B55.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20230123",
+    "stratum": "S1A_winter",
+    "val_fold": 5,
+    "valid_ratio": 0.32974871732611155
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250114T121422_20250114T121522_057440_07125C_BBB0.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250114",
+    "stratum": "S1A_winter",
+    "val_fold": 5,
+    "valid_ratio": 0.30533851356063346
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240128T142150_20240128T142250_052308_065310_15D6.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20240128",
+    "stratum": "S1A_winter",
+    "val_fold": 5,
+    "valid_ratio": 0.26171217508096145
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230206T121423_20230206T121523_047115_05A6FC_61D8.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20230206",
+    "stratum": "S1A_winter",
+    "val_fold": 5,
+    "valid_ratio": 0.2066538456309415
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250127T142958_20250127T143058_057631_0719F6_E84B.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250127",
+    "stratum": "S1A_winter",
+    "val_fold": 5,
+    "valid_ratio": 0.12818305435739538
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251102T140451_20251102T140551_004836_0098EB_3D6A.nc",
+    "sensor": "S1C",
+    "season": "autumn",
+    "date": "20251102",
+    "stratum": "S1C_autumn",
+    "val_fold": 5,
+    "valid_ratio": 0.1733544691853847
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251229T151904_20251229T152004_005668_00B521_EA17.nc",
+    "sensor": "S1C",
+    "season": "winter",
+    "date": "20251229",
+    "stratum": "S1C_winter",
+    "val_fold": 5,
+    "valid_ratio": 0.2143097210717485
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241022T121428_20241022T121528_056215_06E1C0_5007.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241022",
+    "stratum": "S1A_autumn",
+    "val_fold": 6,
+    "valid_ratio": 0.6924949276692064
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241027T122239_20241027T122339_056288_06E4AB_CD6E.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241027",
+    "stratum": "S1A_autumn",
+    "val_fold": 6,
+    "valid_ratio": 0.689811245445848
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231001T115021_20231001T115125_050571_06177A_7B85.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231001",
+    "stratum": "S1A_autumn",
+    "val_fold": 6,
+    "valid_ratio": 0.6638036387974492
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231113T114115_20231113T114215_051198_062D07_69CC.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231113",
+    "stratum": "S1A_autumn",
+    "val_fold": 6,
+    "valid_ratio": 0.4688953559730442
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241007T150259_20241007T150359_055998_06D932_ACAB.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241007",
+    "stratum": "S1A_autumn",
+    "val_fold": 6,
+    "valid_ratio": 0.3220338981121423
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231010T143822_20231010T143922_050704_061C05_76B3.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231010",
+    "stratum": "S1A_autumn",
+    "val_fold": 6,
+    "valid_ratio": 0.27997559598389227
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231105T142153_20231105T142253_051083_0628F4_7EBE.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231105",
+    "stratum": "S1A_autumn",
+    "val_fold": 6,
+    "valid_ratio": 0.2549869551736967
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251027T140514_20251027T140614_061612_07B248_1FE4.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20251027",
+    "stratum": "S1A_autumn",
+    "val_fold": 6,
+    "valid_ratio": 0.16613256766739512
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250331T114205_20250331T114305_058548_073ECE_C265.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250331",
+    "stratum": "S1A_spring",
+    "val_fold": 6,
+    "valid_ratio": 0.5032420165639475
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230521T142147_20230521T142247_048633_05D969_8A5D.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20230521",
+    "stratum": "S1A_spring",
+    "val_fold": 6,
+    "valid_ratio": 0.368081450652588
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240318T140523_20240318T140623_053037_066C14_9E4D.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20240318",
+    "stratum": "S1A_spring",
+    "val_fold": 6,
+    "valid_ratio": 0.28351086715609997
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250316T142957_20250316T143057_058331_07361C_D650.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250316",
+    "stratum": "S1A_spring",
+    "val_fold": 6,
+    "valid_ratio": 0.16475362002248325
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240618T143818_20240618T143918_054379_069DAF_FB98.nc",
+    "sensor": "S1A",
+    "season": "summer",
+    "date": "20240618",
+    "stratum": "S1A_summer",
+    "val_fold": 6,
+    "valid_ratio": 0.26440294016931915
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241230T115013_20241230T115117_057221_0709B9_E787.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20241230",
+    "stratum": "S1A_winter",
+    "val_fold": 6,
+    "valid_ratio": 0.6176832323736795
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250202T120619_20250202T120719_057717_071D5F_9949.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250202",
+    "stratum": "S1A_winter",
+    "val_fold": 6,
+    "valid_ratio": 0.5077949074629396
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20230227T115012_20230227T115116_047421_05B163_936D.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20230227",
+    "stratum": "S1A_winter",
+    "val_fold": 6,
+    "valid_ratio": 0.38212485316380235
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250210T155213_20250210T155313_057836_072215_4D52.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250210",
+    "stratum": "S1A_winter",
+    "val_fold": 6,
+    "valid_ratio": 0.3580455324315268
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240108T134955_20240108T135055_052016_06492A_207A.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20240108",
+    "stratum": "S1A_winter",
+    "val_fold": 6,
+    "valid_ratio": 0.3281507146735127
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250106T114107_20250106T114207_057323_070DC2_A976.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250106",
+    "stratum": "S1A_winter",
+    "val_fold": 6,
+    "valid_ratio": 0.30425278693881286
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231204T143007_20231204T143107_051506_063790_2225.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20231204",
+    "stratum": "S1A_winter",
+    "val_fold": 6,
+    "valid_ratio": 0.2569897757793142
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241203T143817_20241203T143916_056829_06FA39_0D32.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20241203",
+    "stratum": "S1A_winter",
+    "val_fold": 6,
+    "valid_ratio": 0.1812641800249338
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20260105T142134_20260105T142234_062633_07DA01_FC30.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20260105",
+    "stratum": "S1A_winter",
+    "val_fold": 6,
+    "valid_ratio": 0.12779918152521016
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251110T143734_20251110T143834_004953_009CC4_DBF5.nc",
+    "sensor": "S1C",
+    "season": "autumn",
+    "date": "20251110",
+    "stratum": "S1C_autumn",
+    "val_fold": 6,
+    "valid_ratio": 0.16305710842889296
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251201T141302_20251201T141402_005259_00A70D_5FEF.nc",
+    "sensor": "S1C",
+    "season": "winter",
+    "date": "20251201",
+    "stratum": "S1C_winter",
+    "val_fold": 6,
+    "valid_ratio": 0.16066470568310082
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251110T121418_20251110T121518_061815_07BA32_806B.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20251110",
+    "stratum": "S1A_autumn",
+    "val_fold": 7,
+    "valid_ratio": 0.69248601455719
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251103T122229_20251103T122329_061713_07B636_979A.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20251103",
+    "stratum": "S1A_autumn",
+    "val_fold": 7,
+    "valid_ratio": 0.6897935520102291
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231106T115021_20231106T115125_051096_062971_BF5B.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231106",
+    "stratum": "S1A_autumn",
+    "val_fold": 7,
+    "valid_ratio": 0.6637375444885714
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241015T153554_20241015T153654_056115_06DDCA_596C.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20241015",
+    "stratum": "S1A_autumn",
+    "val_fold": 7,
+    "valid_ratio": 0.3919121800885355
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231029T143008_20231029T143108_050981_06257B_EA0D.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231029",
+    "stratum": "S1A_autumn",
+    "val_fold": 7,
+    "valid_ratio": 0.3191167804776988
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20221017T142148_20221017T142248_045483_057047_9281.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20221017",
+    "stratum": "S1A_autumn",
+    "val_fold": 7,
+    "valid_ratio": 0.27371395156498735
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20251117T151914_20251117T152014_061919_07BE46_E711.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20251117",
+    "stratum": "S1A_autumn",
+    "val_fold": 7,
+    "valid_ratio": 0.2514385134656573
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231119T140527_20231119T140627_051287_06300F_1FC6.nc",
+    "sensor": "S1A",
+    "season": "autumn",
+    "date": "20231119",
+    "stratum": "S1A_autumn",
+    "val_fold": 7,
+    "valid_ratio": 0.16161982994420937
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240317T115017_20240317T115121_053021_066B73_C983.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20240317",
+    "stratum": "S1A_spring",
+    "val_fold": 7,
+    "valid_ratio": 0.4915997790503303
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250303T134947_20250303T135047_058141_072E7C_DEEE.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250303",
+    "stratum": "S1A_spring",
+    "val_fold": 7,
+    "valid_ratio": 0.36325270268813464
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240326T143818_20240326T143918_053154_06708E_A2DC.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20240326",
+    "stratum": "S1A_spring",
+    "val_fold": 7,
+    "valid_ratio": 0.2654654740965238
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250309T143811_20250309T143911_058229_07321E_10C7.nc",
+    "sensor": "S1A",
+    "season": "spring",
+    "date": "20250309",
+    "stratum": "S1A_spring",
+    "val_fold": 7,
+    "valid_ratio": 0.15858992650711087
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240819T142148_20240819T142248_055283_06BD67_81C1.nc",
+    "sensor": "S1A",
+    "season": "summer",
+    "date": "20240819",
+    "stratum": "S1A_summer",
+    "val_fold": 7,
+    "valid_ratio": 0.259863565545024
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250126T121422_20250126T121522_057615_071952_3231.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250126",
+    "stratum": "S1A_winter",
+    "val_fold": 7,
+    "valid_ratio": 0.6068176450126026
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250106T114207_20250106T114307_057323_070DC2_C356.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250106",
+    "stratum": "S1A_winter",
+    "val_fold": 7,
+    "valid_ratio": 0.5015883578037095
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250202T151918_20250202T152018_057719_071D75_4597.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250202",
+    "stratum": "S1A_winter",
+    "val_fold": 7,
+    "valid_ratio": 0.37593320933305097
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250209T115801_20250209T115901_057819_072162_9C93.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250209",
+    "stratum": "S1A_winter",
+    "val_fold": 7,
+    "valid_ratio": 0.35500940406270476
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20231219T114113_20231219T114213_051723_063F34_712C.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20231219",
+    "stratum": "S1A_winter",
+    "val_fold": 7,
+    "valid_ratio": 0.32491548641995344
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20250224T122232_20250224T122332_058038_072A50_190D.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20250224",
+    "stratum": "S1A_winter",
+    "val_fold": 7,
+    "valid_ratio": 0.3041602404942285
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240121T143004_20240121T143104_052206_064F9F_BC16.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20240121",
+    "stratum": "S1A_winter",
+    "val_fold": 7,
+    "valid_ratio": 0.2553014899417988
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20240213T121427_20240213T121527_052540_065ADF_2B0E.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20240213",
+    "stratum": "S1A_winter",
+    "val_fold": 7,
+    "valid_ratio": 0.1599948918608552
+  },
+  {
+    "fname": "S1A_EW_GRDM_1SDH_20241215T143816_20241215T143916_057004_07011E_F3AA.nc",
+    "sensor": "S1A",
+    "season": "winter",
+    "date": "20241215",
+    "stratum": "S1A_winter",
+    "val_fold": 7,
+    "valid_ratio": 0.12400599917244468
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20251019T142115_20251019T142215_004632_00928A_48CD.nc",
+    "sensor": "S1C",
+    "season": "autumn",
+    "date": "20251019",
+    "stratum": "S1C_autumn",
+    "val_fold": 7,
+    "valid_ratio": 0.11690467125158935
+  },
+  {
+    "fname": "S1C_EW_GRDM_1SDH_20260216T142110_20260216T142210_006382_00CD71_0242.nc",
+    "sensor": "S1C",
+    "season": "winter",
+    "date": "20260216",
+    "stratum": "S1C_winter",
+    "val_fold": 7,
+    "valid_ratio": 0.14205394120035233
+  }
+]

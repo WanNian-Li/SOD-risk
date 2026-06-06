@@ -1,0 +1,10 @@
+work_dirs/
+.conda/
+.claude/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+
+# AutoDL 抢卡脚本的真实配置（含 token/邮箱密码，勿提交）
+tools/autodl_grab.config.json

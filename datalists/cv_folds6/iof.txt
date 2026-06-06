@@ -1,0 +1,22 @@
+
+  ── Best found (CV=0.2381  ✓ target met) ──
+    cls 0:  13.9%  ████
+    cls 1:  22.6%  ████████
+    cls 2:  27.7%  █████████
+    cls 3:  17.2%  ██████
+    cls 4:  18.6%  ██████
+    mask:   17.7%
+    CV=0.2381   max/min=2.00×
+
+==============================================================
+  Recommended config snippet — paste into all.py
+==============================================================
+    'sod_invalid_max_ratio': 0.5,
+    'water_patch_max_ratio': 0.9,
+    'water_rejection_prob':  0.7,
+    'cls4_patch_max_ratio':  1.0,
+    'cls4_rejection_prob':   0.0,
+    'rare_samplers': [
+        {'classes': [2], 'alpha': 1.0},
+        {'classes': [1], 'alpha': 0.7},
+    ],
